@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Nis0na
 - 👀 I’m interested in using hacking, Linux and App development using Kotlin
-- 🌱 I’m currently learning Kotlin, Linux stuff
+- 🌱 I’m currently learning Kotlin, Linux stuff, ethical hacking
 - 📫 How to reach me: nisona-hoh@web.de
 - 😄 Pronouns: he/him
 
