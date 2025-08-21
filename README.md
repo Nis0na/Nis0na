@@ -1,10 +1,8 @@
-- 👋 Hi, I’m @Nis0na
-- 👀 I’m interested in ethical hacking, Linux and App development using Kotlin
-- 🌱 I’m currently learning whats said above
-- 📫 How to reach me: nisona-hoh@web.de
-- 😄 Pronouns: he/him
+# ˏˋ꧁༺@Nis0na༻꧂ˎˊ
+Hello, my name is Nisona and I am currently just vibe coding my way around until I found a new big challenge.
 
-<!---
-Nis0na/Nis0na is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+I know the basics of HTML, python and some CSS. I'm best with learning by doing and therefore never really "studied" a language before (except HTML). But I'm open for learning whenever needed 👀
+
+> So if you are interested in having me in one of your projects, reach out to me and I will be doing the best that I can.
+
+I am also very interested in cybersecurity and Linux 🐧
